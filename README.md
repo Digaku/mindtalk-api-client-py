@@ -25,3 +25,7 @@ Installation
 
 	$ git clone git@github.com:Digaku/mindtalk-api-client-py.git
 
+See also
+--------
+
+* http://developer.digaku.com/api
